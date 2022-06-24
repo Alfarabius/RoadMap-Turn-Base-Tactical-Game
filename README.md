@@ -12,6 +12,6 @@ Turn-based game development notes
 </p>
   <h3><li> Unit selection procedure.</h3>
  <p align="center">
-  <img src="https://psv4.userapi.com/c237031/u3394655/docs/d39/95fcc1ab9a5c/UnitSelect.gif?extra=KeAjP8glN3UCPbNXwvB6bpiMjTN_Bh9Q4-kptwNE7w4wk3bdTFhYJoKSmxSLCSluxYlXN6lgPGIE5-ECSAuP-Yy9baJQP1DghQ2WR1FkeNEyQqT_IFYYLtvac0TJUuLPyK1WYmWbMKKLKNtUJt8J" alt="Unit selection">
+  <img src="https://psv4.userapi.com/c237031/u3394655/docs/d39/4b46e3b99939/UnitSelect.gif?extra=Pb1pYIeQvK_TXPEq5jE8Q82UHWFNQ8oLmIXhSjxFZYjxGpq5mjk53l9qNbapuSBMxUBbIbnVDUb8nw-xqTHBhMBb2LaG7e8AgT9rsdvqE8MNOjQ84G0ufYFgwhygbXreQvttR-RLQMI9PxA7jjA7" alt="Unit selection">
 </p>
 </ol>
